@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: e5d2bbe1a96301c4db369f72258bea2a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bandar
+  fontNames:
+  - Bandar
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a725ee26d79cfe849b9f5079cd062868, type: 3}
+  - {fileID: 12800000, guid: 3a3399b6a45ef3e4d8321838bae378d9, type: 3}
+  - {fileID: 12800000, guid: 05965a57d1e06f4408a355b2ebe34aed, type: 3}
+  - {fileID: 12800000, guid: 48b91109a5f312e408ee7de8268ac73e, type: 3}
+  - {fileID: 12800000, guid: 5b64bccbbf55e4b46862989fe147c953, type: 3}
+  - {fileID: 12800000, guid: bee07afc7481707428ff9645985bb305, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
